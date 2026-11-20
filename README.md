@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-jain840&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Daily%20GitHub%20Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=arpita-jain840&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Daily%20GitHub%20Contribution%20Activity" />
 </p>
 
 ---
