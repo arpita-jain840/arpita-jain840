@@ -1,186 +1,175 @@
 
-<!-- ===================================================== -->
-<!--                 ARPITA JAIN | PROFILE                  -->
-<!-- ===================================================== -->
+<div align="center">
 
-<!-- PREMIUM ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A11CB,100:C471ED&height=200&section=header&text=ARPITA%20JAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20GENAI&descSize=17&descAlignY=60"/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8e44ad&height=190&section=header&text=Arpita%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Data%20Science%20%7C%20GenAI&descSize=16&descAlignY=60" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Arpita+Jain+%F0%9F%91%8B;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Machine+Learning+Projects+%F0%9F%9A%80;Turning+Data+Into+Intelligence+%F0%9F%93%8A;Learning+Today.+Innovating+Tomorrow.+%E2%9C%A8"/>
 
-<!-- TYPING ANIMATION -->
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%92%9C;Exploring+Machine+Learning+%F0%9F%A4%96;Building+Intelligent+Applications+%F0%9F%9A%80;Learning+Generative+AI+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%BB" alt="Typing Animation" />
-</p>
+<a href="https://github.com/arpita-jain840">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/arpita-jain-922a58321">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:arpijain990@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpita-jain840&label=PROFILE%20VIEWS&color=8e44ad&style=for-the-badge" />
-</p>
-
----
-
-<!-- ABOUT ME -->
-
-<h2 align="center">🌷 About Me</h2>
-
-<p align="center">
-  An aspiring AI/ML Engineer from India, passionate about
-  <b>Machine Learning, Generative AI, Data Science</b> and
-  building intelligent real-world applications.
-</p>
-
-<p align="center">
-  🔭 Currently working on <b>Careerlyst</b> — AI-powered internship discovery platform.
-  <br/>
-  🌱 Exploring Machine Learning with Scikit-learn.
-  <br/>
-  👯 Looking to collaborate on AI/ML, GenAI & Open-Source projects.
-  <br/>
-  💡 Love turning creative ideas into intelligent applications.
-  <br/>
-  📫 Reach me at <b>arpijain990@gmail.com</b>
-</p>
+</div>
 
 ---
 
-<!-- PROJECTS -->
+<h2 align="center">💜 ABOUT ME</h2>
 
-<h2 align="center">🚀 Things I'm Building</h2>
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-  <i>Ideas, experiments and projects that turn technology into solutions.</i>
-</p>
+- 🎓 B.Tech CSE | IPU, India
+- 🤖 Aspiring AI/ML Engineer
+- 📊 Interested in Data Science & Analytics
+- 🧠 Currently learning Machine Learning with Scikit-learn
+- ✨ Exploring Generative AI
+- 🚀 Building real-world intelligent applications
+- 🎤 Public Speaking Head | The Discurso Masters
+- 🤝 Open to collaborations and hackathons
 
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🔍 Careerlyst</h3>
-      <p>AI-powered internship discovery platform designed to help students explore relevant opportunities.</p>
-      <p><b>AI • GenAI</b></p>
-      <a href="https://github.com/arpita-jain840/Careerlyst">
-        <img src="https://img.shields.io/badge/Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>📄 ResumeIQ</h3>
-      <p>An intelligent ATS resume analyzer that identifies weaknesses and suggests improvements.</p>
-      <p><b>Python • Flask • AI</b></p>
-      <a href="https://github.com/arpita-jain840/ResumeIQ">
-        <img src="https://img.shields.io/badge/Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🛒 CartIQ</h3>
-      <p>An ML-powered shopping recommendation project focused on smarter product discovery.</p>
-      <p><b>Python • Scikit-learn</b></p>
-      <a href="https://github.com/arpita-jain840/CartIQ">
-        <img src="https://img.shields.io/badge/Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<br clear="right"/>
+
+---
+
+<h2 align="center">🚀 PROJECTS I'M BUILDING</h2>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<h3>🔍 Careerlyst</h3>
+
+AI-powered internship discovery platform to help students find relevant opportunities.
+
+**AI • GenAI**
+
+<a href="https://github.com/arpita-jain840/Careerlyst">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="33%" align="center">
+
+<h3>📄 ResumeIQ</h3>
+
+Intelligent ATS resume analyzer that identifies weaknesses and suggests improvements.
+
+**Python • Flask • AI**
+
+<a href="https://github.com/arpita-jain840/ResumeIQ">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="33%" align="center">
+
+<h3>🛒 CartIQ</h3>
+
+ML-powered shopping recommendation project for smarter product discovery.
+
+**Python • Scikit-learn**
+
+<a href="https://github.com/arpita-jain840/CartIQ">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
-
-<h2 align="center">💻 Languages & Technologies</h2>
+<h2 align="center">💻 TECH STACK</h2>
 
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
 </p>
 
 <h3 align="center">Data Science & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,opencv" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,flask" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,flask"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-<!-- DAILY ACTIVITY -->
-
-<h2 align="center">📅 My Coding Journey</h2>
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
 
 <p align="center">
-  <i>Every contribution is a small step towards something bigger.</i>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-jain840&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Daily%20GitHub%20Contribution%20Activity" />
+<img src="https://github-profile-trophy.vercel.app/?username=arpita-jain840&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 </p>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">📊 GitHub Dashboard</h2>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpita-jain840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=arpita-jain840&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpita-jain840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=arpita-jain840&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-jain840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff" />
-</p>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <i>Watch my contributions come to life!</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpita-jain840/arpita-jain840/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-jain840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
 </p>
 
 ---
 
-<!-- CONNECT -->
-
-<h2 align="center">💌 Let's Connect</h2>
+<h2 align="center">🌌 MY CONTRIBUTION UNIVERSE</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arpita-jain-922a58321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arpijain990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/arpita-jain840">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<i>Every commit tells a story. Every day brings a new achievement! 💜</i>
 </p>
 
 <p align="center">
-  <b>✨ Learning. Building. Improving. Repeating. ✨</b>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-jain840&bg_color=0D1117&color=C084FC&line=A78BFA&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
 </p>
 
-<!-- FOOTER -->
+---
+
+<h2 align="center">💌 LET'S CONNECT</h2>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,50:302b63,100:0f0c29&height=110&section=footer"/>
+<a href="https://linkedin.com/in/arpita-jain-922a58321">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:arpijain990@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/arpita-jain840">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+<h3 align="center">✨ LEARN • BUILD • INNOVATE • REPEAT ✨</h3>
+
+<p align="center">
+<i>"Great things are built one small commit at a time."</i>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C471ED,50:6A11CB,100:090979&height=120&section=footer"/>
 </p>
