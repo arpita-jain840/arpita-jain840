@@ -136,7 +136,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpita-jain840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=arpita-jain840&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=arpita-jain840&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC&timezone=Asia%2FKolkata" />
 </p>
 
 <p align="center">
