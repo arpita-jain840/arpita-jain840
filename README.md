@@ -115,7 +115,7 @@
 </p>
 
 ---
-
+---
 <!-- DAILY ACTIVITY -->
 
 <h2 align="center">📅 My Coding Journey</h2>
